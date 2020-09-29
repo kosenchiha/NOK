@@ -9,6 +9,7 @@ const IndexPagePreview = ({ entry, getAsset }) => {
     return (
       <IndexPageTemplate
         projects={data.projects || []}
+        featuredProjects={data.featuredProjects || []}
         HeroStatement={data.HeroStatement}
         ShowreelCTA={data.ShowreelCTA}
         videoUrl={data.videoUrl}

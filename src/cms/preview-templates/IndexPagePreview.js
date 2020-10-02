@@ -14,6 +14,7 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         ShowreelCTA={data.ShowreelCTA}
         videoUrl={data.videoUrl}
         blurbs={data.blurbs}
+        featuredProjects={data.featuredProjects || []}
       />
     )
   } else {

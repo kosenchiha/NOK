@@ -100,7 +100,7 @@ collections:
                           collection: "project",
                           valueField: title,
                           searchFields: ["title"],
-                          displayFields: ["title"],
+                          displayFields: ["title", "description"],
                         },
                       ],
                   },

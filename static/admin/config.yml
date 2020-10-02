@@ -101,6 +101,7 @@ collections:
                           valueField: title,
                           searchFields: ["title"],
                           displayFields: ["title"],
+                          file: project,
                         },
                       ],
                   },

@@ -9,5 +9,10 @@ ShowreelCTA: play showreel
 blurbs:
   - loopLink: >-
       https://nextofkin2020.s3.eu-west-2.amazonaws.com/NOK-Hero-Loop-v02-sml_1BW.mp4
+wrk:
+  wrkfeat:
+    - image: I AM BOLT
+  wrkfilm:
+    - image: 'As It Was: Liam Gallagher'
 ---
 
